@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### tev1 #####" tvg-logo="" group-title="|EU| tve1",##### GENERAL LOW QUALITY SD #####
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="#### tve2 ####" tvg-logo="" group-title="|EU| tve2",FR - TF 1 SD
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
